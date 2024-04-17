@@ -1,0 +1,26 @@
+.about{
+    background: url("../../imgs/header.jpg") center no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    padding: 100px 0;
+    font-family: 'Tajawal', sans-serif;
+}
+.about h1{
+    color: #43121d;
+    width: 80%;
+    font-weight: bold;
+    font-size: 35px;
+}
+.about p{
+    color: #333;
+    width: 80%;
+}
+.about a{
+    color: black;
+    text-decoration: none !important;
+    font-weight: bold;
+    transition: 0.2s ease;
+}
+.about a:hover{
+    color: #a82d49;
+}

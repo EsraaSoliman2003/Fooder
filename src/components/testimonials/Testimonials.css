@@ -1,0 +1,26 @@
+.testimonials{
+    background-color: #a82d49;
+    padding: 100px 0;
+}
+.testimonials h1{
+    color: #fff;
+    text-align: center;
+}
+.testimonials .content{
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 30px 100px;
+    text-align: center;
+}
+.testimonials .img{
+    width: 60px;
+    margin: auto;
+}
+.testimonials .img img{
+    width: 100%;
+}
+.testimonials p:last-of-type{
+    color: #a82d49;
+    font-weight: bold;
+}

@@ -1,0 +1,76 @@
+.explore{
+    margin-top: 50px;
+    padding-top: 50px;
+    font-family: 'Tajawal', sans-serif;
+    margin-bottom: 50px;
+}
+.explore h1{
+    color: #43121d;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+.explore p{
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    color: #333;
+}
+.explore .row{
+    margin-top: 50px;
+}
+.explore img{
+    width: 100%;
+    border-radius: 10px;
+}
+.explore .text{
+    margin: 30px 0 20px;
+    border-bottom: 1px solid #e8e7e7;
+    padding-bottom: 10px;
+}
+.explore .text h6{
+    font-weight: bold;
+}
+.explore .text p{
+    text-align: left;
+    margin: 0;
+    width: 100%;
+}
+.explore .text span{
+    font-weight: bold;
+    font-size: 25px;
+}
+.explore .text .span1{
+    margin-right: 10px;
+    color: #a82d49;
+}
+.explore .text .span2{
+    text-decoration-line: line-through;
+    margin-left: 10px;
+}
+.explore .btn{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.explore button{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+    transition: 0.2s ease;
+    padding: 10px 20px;
+}
+.explore button a{
+    color: #fff;
+    font-family: 'Tajawal', sans-serif;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.explore button:hover a{
+    color: #77132b;
+}
+.explore button:hover{
+    background-color: #fff;
+}

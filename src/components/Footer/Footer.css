@@ -1,0 +1,83 @@
+/* Part 1 */
+.part1{
+    background: url("../../imgs/food.jpg") center fixed;
+    padding: 100px 0;
+    color: #fff;
+    text-align: center;
+}
+.part1 h1{
+    display: inline;
+    padding: 0 0 40px;
+}
+button{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+    transition: 0.2s ease;
+    padding: 10px 20px;
+    margin: 20px;
+}
+button a{
+    color: #fff;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+button a:hover{
+    color: #fff;
+}
+button:hover{
+    background-color: transparent;
+}
+
+/* Part 2 */
+.part2{
+    margin: 50px 0;
+    padding: 50px 0;
+    text-align: center;
+}
+.part2 h1{
+    color: #43121d;
+}
+.part2 input{
+    padding: 10px 15px;
+    width: 300px;
+    margin-right: 50px;
+    font-weight: bold;
+    border: 1px solid #c4c3c3;
+    outline: none;
+    
+}
+.part2 button{
+    margin-top: 15px;
+}
+.part2 button:hover a{
+    color: #a82d49;
+}
+
+/* Part 3 */
+.part3{
+    background-color: #a82d49;
+    padding: 20px 0;
+    text-align: center;
+}
+.part3 .links:first-of-type{
+    margin-bottom: 30px;
+}
+.part3 .links a{
+    color: #fff;
+    text-decoration: none;
+}
+.part3 .links:first-of-type a{
+    margin: 0 30px;
+}
+.part3 .links:last-of-type a{
+    margin: 0 7px;
+}
+.part3 img{
+    width: 30px;
+}
+.part3 p{
+    color: #fff;
+    margin-top: 150px;
+}
