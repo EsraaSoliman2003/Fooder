@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Fooder/static/css/main.bb2a8002.css",
+    "main.js": "/Fooder/static/js/main.aed7b2a4.js",
+    "static/js/592.206a3e83.chunk.js": "/Fooder/static/js/592.206a3e83.chunk.js",
+    "static/media/2.png": "/Fooder/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/1.jpg": "/Fooder/static/media/1.91adf8dc0779a423e014.jpg",
+    "static/media/character.png": "/Fooder/static/media/character.a044a392d520a893cf84.png",
+    "static/media/food.jpg": "/Fooder/static/media/food.499c39f62fa613888be7.jpg",
+    "static/media/header.jpg": "/Fooder/static/media/header.ee7d53f2bf1c50df0c76.jpg",
+    "static/media/01.jpg": "/Fooder/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/square-instagram.svg": "/Fooder/static/media/square-instagram.8a9db3b300809e4906f0493b7bbd195e.svg",
+    "index.html": "/Fooder/index.html",
+    "static/media/twitter.svg": "/Fooder/static/media/twitter.36ff47256307c76ef0023130c79840a9.svg",
+    "static/media/linkedin.svg": "/Fooder/static/media/linkedin.9d6e1d88d64fe656b571b560b76b0f7d.svg",
+    "static/media/youtube.svg": "/Fooder/static/media/youtube.61f921fdf51b5d9bfaefaa15b2084fc3.svg",
+    "static/media/facebook.svg": "/Fooder/static/media/facebook.32e9b0f9c0f7e23d414bceddf2fa17ec.svg",
+    "main.bb2a8002.css.map": "/Fooder/static/css/main.bb2a8002.css.map",
+    "main.aed7b2a4.js.map": "/Fooder/static/js/main.aed7b2a4.js.map",
+    "592.206a3e83.chunk.js.map": "/Fooder/static/js/592.206a3e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb2a8002.css",
+    "static/js/main.aed7b2a4.js"
+  ]
+}
